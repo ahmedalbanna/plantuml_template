@@ -1,0 +1,5 @@
+skinparam backgroundColor #F0F0F0
+skinparam componentStyle rectangle
+skinparam shadowing false
+skinparam roundCorner 10
+!theme plain
